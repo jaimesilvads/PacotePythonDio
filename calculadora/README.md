@@ -1,4 +1,5 @@
 # Exemplo Pacote Calculadora 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jaimesilvads/ModelagemDio/blob/main/LICENSE)
 
 ## Sobre o pacote
 
