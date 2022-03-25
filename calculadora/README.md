@@ -1,6 +1,8 @@
 # Exemplo Pacote Calculadora 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jaimesilvads/ModelagemDio/blob/main/LICENSE)
 
+Autor: Francisco Jaime da Silva
+
 ## Sobre o pacote
 
 Este pacote é apenas um exemplo de uma calculadora com funções padrões e 
